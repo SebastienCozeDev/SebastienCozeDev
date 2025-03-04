@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sebastien.cozedev.com/#my-projects](https://sebastien.cozedev.com/#my-projects)
 
-- 📄 Know about my experiences [https://sebastien.cozedev.com/#my-journey](https://sebastien.cozedev.com/#my-journey)
+- 📄 Know about my experiences at [https://sebastien.cozedev.com/#my-journey](https://sebastien.cozedev.com/#my-journey)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
