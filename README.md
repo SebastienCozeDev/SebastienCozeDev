@@ -27,6 +27,9 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer" title="FastAPI">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/fastapi/fastapi-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
@@ -52,9 +55,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="Node.js">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.odoo.com" target="_blank" rel="noreferrer" title="Odoo">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" title="Pandas">
