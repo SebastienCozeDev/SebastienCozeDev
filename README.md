@@ -12,12 +12,15 @@
 
 - 📄 Know about my experience at [https://sebastien.cozedev.com/#experience](https://sebastien.cozedev.com/#experience)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/sebastien-coze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastien-coze" height="30" width="40" /></a>
-</p>
+<h2 align="center">💬 Contact me</h2>
 
-<h2 align="center">⚙️ My skills ⚙️</h2>
+<div align="center">
+  <a href="https://linkedin.com/in/sebastien-coze" target='_blank'>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="45" alt="LinkedIn logo"  />
+  </a>
+</div>
+
+<h2 align="center">⚙️ My skills</h2>
 
 <div id="skills-container" align="center">
     <table>
@@ -82,7 +85,7 @@
     </table>
 </div>
 
-<h2 align="center">📈 My stats 📈</h2>
+<h2 align="center">📈 My stats</h2>
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastiencozedev&show_icons=true&locale=en&layout=compact" alt="sebastiencozedev" /></p>
 
