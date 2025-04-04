@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sébastien COZE</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Web+Development;ERP+Development;API+Development;System+Administration;Scripting)](https://git.io/typing-svg)
+<img
+  align="center"
+  src="https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1000&color=FF0000&center=true&vCenter=true&random=true&width=1000&height=75&lines=Web+Development;ERP+Development;API+Development;System+Administration;Scripting"
+  alt="Typing SVG"
+/>
 
 <h3 align="center">A passionate full stack developer from France</h3>
 
