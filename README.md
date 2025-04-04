@@ -17,75 +17,73 @@
   <a href="https://linkedin.com/in/sebastien-coze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastien-coze" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title="Bash">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="Bootstrap">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" title="Django">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer" title="FastAPI">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/fastapi/fastapi-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://materializecss.com/" target="_blank" rel="noreferrer" title="MaterializeCSS">
-    <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer" title="nginx">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="Node.js">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" title="Pandas">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer" title="Postman">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer" title="SQLite">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="TailwindCSS">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-</p>
+<h2 align="center">⚙️ My skills ⚙️</h2>
+
+<div id="skills-container" align="center">
+    <table>
+        <tr>
+            <th>Programming languages</th>
+            <td>
+                <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" height="35" alt="Java logo" /></a>&nbsp;
+                <a href="https://www.javascript.com/" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="35" alt="JavaScript logo" /></a>&nbsp;
+                <a href="https://www.lua.org/" target="_blank"><img src="https://skillicons.dev/icons?i=lua" height="35" alt="Lua logo" /></a>&nbsp;
+                <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" height="35" alt="PHP logo" /></a>&nbsp;
+                <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" height="35" alt="Python logo" /></a>&nbsp;
+                <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" height="35" alt="TypeScript logo" /></a>&nbsp;
+            </td>
+        </tr>
+        <tr>
+            <th>Frameworks & Libraries</th>
+            <td>
+                <a href="https://angular.io/" target="_blank"><img src="https://skillicons.dev/icons?i=angular" height="35" alt="Angular logo" /></a>&nbsp;
+                <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="Bootstrap logo" /></a>&nbsp;
+                <a href="https://bulma.io/" target="_blank"><img src="https://skillicons.dev/icons?i=bulma" height="35" alt="Bulma logo" /></a>&nbsp;
+                <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" height="35" alt="Django logo" /></a>&nbsp;
+                <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" height="35" alt="Express logo" /></a>&nbsp;
+                <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" height="35" alt="FastAPI logo" /></a>&nbsp;
+                <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" height="35" alt="Flask logo" /></a>&nbsp;
+                <a href="https://laravel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" height="35" alt="Laravel logo" /></a>&nbsp;
+                <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="Next.js logo" /></a>&nbsp;
+                <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="35" alt="React logo" /></a>&nbsp;
+                <a href="https://reactnative.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=reactnative" height="35" alt="React Native logo" /></a>&nbsp;
+                <a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring" height="35" alt="Spring logo" /></a>&nbsp;
+                <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwindcss" height="35" alt="Tailwind CSS logo" /></a>&nbsp;
+            </td>
+        </tr>
+        <tr>
+            <th>Databases</th>
+            <td>
+                <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="MongoDB logo" /></a>&nbsp;
+                <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" height="35" alt="PostgreSQL logo" /></a>&nbsp;
+                <a href="https://www.sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" height="35" alt="SQLite logo" /></a>&nbsp;
+            </td>
+        </tr>
+        <tr>
+            <th>Tools</th>
+            <td>
+                <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" height="35" alt="Bash logo" /></a>&nbsp;
+                <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="35" alt="Docker logo" /></a>&nbsp;
+                <a href="https://expo.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=expo" height="35" alt="Expo logo" /></a>&nbsp;
+                <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="35" alt="Git logo" /></a>&nbsp;
+                <a href="https://www.nginx.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nginx" height="35" alt="Nginx logo" /></a>&nbsp;
+                <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="Node.js logo" /></a>&nbsp;
+                <a href="https://www.odoo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=odoo" height="35" alt="Odoo logo" /></a>&nbsp;
+            </td>
+        </tr>
+        <tr>
+            <th>Design & Prototypage</th>
+            <td>
+                <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" height="35" alt="Figma logo" /></a>&nbsp;
+            </td>
+        </tr>
+        <tr>
+            <th>Others</th>
+            <td>
+                <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="35" alt="Linux logo" /></a>&nbsp;
+            </td>
+        </tr>
+    </table>
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastiencozedev&show_icons=true&locale=en&layout=compact" alt="sebastiencozedev" /></p>
 
