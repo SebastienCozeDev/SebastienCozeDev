@@ -37,7 +37,6 @@
             <td>
                 <a href="https://angular.io/" target="_blank"><img src="https://skillicons.dev/icons?i=angular" height="35" alt="Angular logo" /></a>&nbsp;
                 <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="Bootstrap logo" /></a>&nbsp;
-                <a href="https://bulma.io/" target="_blank"><img src="https://skillicons.dev/icons?i=bulma" height="35" alt="Bulma logo" /></a>&nbsp;
                 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" height="35" alt="Django logo" /></a>&nbsp;
                 <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" height="35" alt="Express logo" /></a>&nbsp;
                 <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" height="35" alt="FastAPI logo" /></a>&nbsp;
@@ -45,7 +44,6 @@
                 <a href="https://laravel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" height="35" alt="Laravel logo" /></a>&nbsp;
                 <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="Next.js logo" /></a>&nbsp;
                 <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="35" alt="React logo" /></a>&nbsp;
-                <a href="https://reactnative.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=reactnative" height="35" alt="React Native logo" /></a>&nbsp;
                 <a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring" height="35" alt="Spring logo" /></a>&nbsp;
                 <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwindcss" height="35" alt="Tailwind CSS logo" /></a>&nbsp;
             </td>
@@ -63,7 +61,6 @@
             <td>
                 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" height="35" alt="Bash logo" /></a>&nbsp;
                 <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="35" alt="Docker logo" /></a>&nbsp;
-                <a href="https://expo.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=expo" height="35" alt="Expo logo" /></a>&nbsp;
                 <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="35" alt="Git logo" /></a>&nbsp;
                 <a href="https://www.nginx.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nginx" height="35" alt="Nginx logo" /></a>&nbsp;
                 <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="Node.js logo" /></a>&nbsp;
