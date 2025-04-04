@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sebastien.cozedev.com/#projects](https://sebastien.cozedev.com/#projects)
 
-- 📄 Know about my experiences at [https://sebastien.cozedev.com/#experience](https://sebastien.cozedev.com/#experience)
+- 📄 Know about my experience at [https://sebastien.cozedev.com/#experience](https://sebastien.cozedev.com/#experience)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
