@@ -9,13 +9,12 @@
 <h3 align="center">A passionate full stack developer from France</h3>
 
 - 👨‍💻 All of my projects are available at [https://sebastien.cozedev.com/#projects](https://sebastien.cozedev.com/#projects)
-
 - 📄 Know about my experience at [https://sebastien.cozedev.com/#experience](https://sebastien.cozedev.com/#experience)
 
 <h2 align="center">💬 Contact me</h2>
 
 <div align="center">
-  <a href="https://linkedin.com/in/sebastien-coze" target='_blank'>
+  <a href="https://linkedin.com/in/sebastien-coze" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="45" alt="LinkedIn logo"  />
   </a>
 </div>
@@ -71,18 +70,13 @@
             </td>
         </tr>
         <tr>
-            <th>Design & Prototypage</th>
-            <td>
-                <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" height="35" alt="Figma logo" /></a>&nbsp;
-            </td>
-        </tr>
-        <tr>
             <th>Others</th>
             <td>
                 <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="35" alt="Linux logo" /></a>&nbsp;
             </td>
         </tr>
     </table>
+  <a href="https://sebastien.cozedev.com/#skills" target="_blank">Accéder à mon site web pour en savoir plus</a>
 </div>
 
 <h2 align="center">📈 My stats</h2>
