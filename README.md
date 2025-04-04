@@ -45,7 +45,6 @@
         <tr>
             <th>Frameworks & Libraries</th>
             <td>
-                <a href="https://angular.io/" target="_blank"><img src="https://skillicons.dev/icons?i=angular" height="35" alt="Angular logo" /></a>&nbsp;
                 <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="Bootstrap logo" /></a>&nbsp;
                 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" height="35" alt="Django logo" /></a>&nbsp;
                 <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" height="35" alt="Express logo" /></a>&nbsp;
@@ -79,7 +78,7 @@
                 <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="Node.js logo" /></a>&nbsp;
                 <a href="https://www.notion.com/" target="_blank"><img src="https://skillicons.dev/icons?i=notion" height="35" alt="Notion logo" /></a>&nbsp;
                 <a href="https://www.npmjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=npm" height="35" alt="NPM logo" /></a>&nbsp;
-                <a href="https://www.odoo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=odoo" height="35" alt="Odoo logo" /></a>&nbsp;
+                <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" height="35" alt="Postman logo" /></a>&nbsp;
             </td>
         </tr>
         <tr>
