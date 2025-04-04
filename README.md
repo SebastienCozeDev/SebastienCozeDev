@@ -34,6 +34,13 @@
                 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" height="35" alt="TypeScript logo" /></a>&nbsp;
             </td>
         </tr>
+          <tr>
+            <th>Other languages</th>
+            <td>
+                <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="35" alt="HTML logo" /></a>&nbsp;
+                <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="35" alt="CSS logo" /></a>&nbsp;
+            </td>
+        </tr>
         <tr>
             <th>Frameworks & Libraries</th>
             <td>
