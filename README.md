@@ -79,6 +79,7 @@
                 <a href="https://www.notion.com/" target="_blank"><img src="https://skillicons.dev/icons?i=notion" height="35" alt="Notion logo" /></a>&nbsp;
                 <a href="https://www.npmjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=npm" height="35" alt="NPM logo" /></a>&nbsp;
                 <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" height="35" alt="Postman logo" /></a>&nbsp;
+                <a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="35" alt="Vercel logo" /></a>&nbsp;
             </td>
         </tr>
         <tr>
