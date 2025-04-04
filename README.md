@@ -77,6 +77,7 @@
                 <a href="https://gitlab.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" height="35" alt="GitLab logo" /></a>&nbsp;
                 <a href="https://www.nginx.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nginx" height="35" alt="Nginx logo" /></a>&nbsp;
                 <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="Node.js logo" /></a>&nbsp;
+                <a href="https://www.notion.com/" target="_blank"><img src="https://skillicons.dev/icons?i=notion" height="35" alt="Notion logo" /></a>&nbsp;
                 <a href="https://www.odoo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=odoo" height="35" alt="Odoo logo" /></a>&nbsp;
             </td>
         </tr>
