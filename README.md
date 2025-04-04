@@ -86,6 +86,7 @@
             <td>
                 <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="35" alt="Linux logo" /></a>&nbsp;
                 <a href="https://www.debian.org/" target="_blank"><img src="https://skillicons.dev/icons?i=debian" height="35" alt="Debian logo" /></a>&nbsp;
+                <a href="https://ubuntu.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ubuntu" height="35" alt="Ubuntu logo" /></a>&nbsp;
             </td>
         </tr>
     </table>
