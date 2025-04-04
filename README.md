@@ -71,6 +71,9 @@
                 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" height="35" alt="Bash logo" /></a>&nbsp;
                 <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="35" alt="Docker logo" /></a>&nbsp;
                 <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="35" alt="Git logo" /></a>&nbsp;
+                <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub logo" /></a>&nbsp;
+                <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" height="35" alt="GitHub Actions logo" /></a>&nbsp;
+                <a href="https://gitlab.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" height="35" alt="GitLab logo" /></a>&nbsp;
                 <a href="https://www.nginx.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nginx" height="35" alt="Nginx logo" /></a>&nbsp;
                 <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="Node.js logo" /></a>&nbsp;
                 <a href="https://www.odoo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=odoo" height="35" alt="Odoo logo" /></a>&nbsp;
@@ -80,6 +83,7 @@
             <th>Others</th>
             <td>
                 <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="35" alt="Linux logo" /></a>&nbsp;
+                <a href="https://www.debian.org/" target="_blank"><img src="https://skillicons.dev/icons?i=debian" height="35" alt="Debian logo" /></a>&nbsp;
             </td>
         </tr>
     </table>
