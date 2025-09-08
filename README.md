@@ -80,7 +80,7 @@
             </td>
         </tr>
     </table>
-  <a href="https://sebastien.cozedev.com/#skills" target="_blank">Accéder à mon site web pour en savoir plus</a>
+  <a href="https://sebastien.cozedev.com/" target="_blank">Visit my website to learn more</a>
 </div>
 
 <h2 align="center">📈 My stats</h2>
