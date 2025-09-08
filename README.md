@@ -8,9 +8,6 @@
 
 <h3 align="center">A passionate full stack developer from France</h3>
 
-- 👨‍💻 All of my projects are available at [https://sebastien.cozedev.com/#projects](https://sebastien.cozedev.com/#projects)
-- 📄 Know about my experience at [https://sebastien.cozedev.com/#experience](https://sebastien.cozedev.com/#experience)
-
 <h2 align="center">💬 Contact me</h2>
 
 <div align="center">
