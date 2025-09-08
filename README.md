@@ -85,7 +85,7 @@
 
 <h2 align="center">📈 My stats</h2>
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastiencozedev&show_icons=true&locale=en&layout=compact" alt="sebastiencozedev" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastiencozedev&show_icons=true&locale=en&layout=compact" alt="sebastiencozedev" /></p>
 
 
   <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastiencozedev&show_icons=true&locale=en" alt="sebastiencozedev" /></p>-->
