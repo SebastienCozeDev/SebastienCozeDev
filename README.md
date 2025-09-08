@@ -8,14 +8,6 @@
 
 <h3 align="center">A passionate full stack developer from France</h3>
 
-<h2 align="center">💬 Contact me</h2>
-
-<div align="center">
-  <a href="https://linkedin.com/in/sebastien-coze" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="45" alt="LinkedIn logo"  />
-  </a>
-</div>
-
 <h2 align="center">⚙️ My skills</h2>
 
 <div id="skills-container" align="center">
@@ -96,6 +88,13 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastiencozedev&show_icons=true&locale=en&layout=compact" alt="sebastiencozedev" /></p>
 
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastiencozedev&show_icons=true&locale=en" alt="sebastiencozedev" /></p>
+  <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastiencozedev&show_icons=true&locale=en" alt="sebastiencozedev" /></p>-->
 
 
+<h2 align="center">💬 Contact me</h2>
+
+<div align="center">
+  <a href="https://linkedin.com/in/sebastien-coze" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="45" alt="LinkedIn logo"  />
+  </a>
+</div>
