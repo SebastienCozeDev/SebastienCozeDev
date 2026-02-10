@@ -83,12 +83,6 @@
   <a href="https://sebastien.cozedev.com/" target="_blank">Visit my website to learn more</a>
 </div>
 
-<h2 align="center">📈 My stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastiencozedev&show_icons=true&locale=en&layout=compact" alt="sebastiencozedev" />
-</p>
-
 <h2 align="center">💬 Contact me</h2>
 
 <div align="center">
