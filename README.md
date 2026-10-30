@@ -1,17 +1,44 @@
-<h1 align="center">Hi 👋, I'm Sébastien COZE</h1>
+<h1 align="center">Hi 👋, I'm Sébastien Coze</h1>
 
 <img
   align="center"
-  src="https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1000&color=FF0000&center=true&vCenter=true&random=true&width=1000&height=75&lines=Web+Development;ERP+Development;API+Development;System+Administration;Scripting"
+  src="https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1000&color=FF0000&center=true&vCenter=true&random=true&width=1000&height=75&lines=ERP+Consulting;Dolibarr+Deployment;Software+Configuration;User+Training;Customer+Support;Web+Development"
   alt="Typing SVG"
 />
 
-<h3 align="center">A passionate full stack developer from France</h3>
+<h3 align="center">Technical Analyst, ERP Consultant & Trainer at <a href="https://www.ceos-it.com/" target="_blank">CEOS-IT</a> 🇫🇷</h3>
+
+<p align="center">
+  I help businesses choose, deploy and get the most out of their management software, especially the <a href="https://www.dolibarr.org/" target="_blank">Dolibarr</a> ERP.<br />
+  My background as a full stack developer (Python, PHP, JavaScript, Odoo) helps me turn business needs into concrete solutions.
+</p>
+
+<h2 align="center">💼 What I do</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">🔍<br /><b>Analysis & consulting</b><br />Needs analysis and project plans<br />for business software rollouts</td>
+      <td align="center">⚙️<br /><b>Installation & configuration</b><br />Deploying and setting up ERPs,<br />coordinating everyone involved</td>
+    </tr>
+    <tr>
+      <td align="center">🎓<br /><b>Training</b><br />Designing training plans and materials,<br />training end users</td>
+      <td align="center">🛟<br /><b>Support & follow-up</b><br />Maintenance, support<br />and customer satisfaction</td>
+    </tr>
+  </table>
+</div>
 
 <h2 align="center">⚙️ My skills</h2>
 
 <div id="skills-container" align="center">
     <table>
+        <tr>
+            <th>ERP</th>
+            <td>
+                <a href="https://www.dolibarr.org/" target="_blank"><img src="https://img.shields.io/badge/Dolibarr-263C5C?style=for-the-badge" height="35" alt="Dolibarr badge" /></a>&nbsp;
+                <a href="https://www.odoo.com/" target="_blank"><img src="https://img.shields.io/badge/Odoo-714B67?logo=odoo&logoColor=white&style=for-the-badge" height="35" alt="Odoo badge" /></a>&nbsp;
+            </td>
+        </tr>
         <tr>
             <th>Programming languages</th>
             <td>
@@ -49,6 +76,7 @@
         <tr>
             <th>Databases</th>
             <td>
+                <a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge" height="35" alt="MariaDB badge" /></a>&nbsp;
                 <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="MongoDB logo" /></a>&nbsp;
                 <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" height="35" alt="PostgreSQL logo" /></a>&nbsp;
                 <a href="https://www.sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" height="35" alt="SQLite logo" /></a>&nbsp;
@@ -88,5 +116,8 @@
 <div align="center">
   <a href="https://linkedin.com/in/sebastien-coze" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="45" alt="LinkedIn logo"  />
+  </a>
+  <a href="https://sebastien.cozedev.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-sebastien.cozedev.com-FF0000?logo=googlechrome&logoColor=white&style=for-the-badge" height="45" alt="Website badge"  />
   </a>
 </div>
